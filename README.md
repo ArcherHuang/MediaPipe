@@ -1,6 +1,9 @@
-# mediapipe-bin
+# MediaPipe
 
-## Binary type
+## Info
+* https://google.github.io/mediapipe/
+
+## Binary
 
 | Device | OS |Architecture|Python ver|Numpy Version|Note|
 |:--|:--|:--|:--|:--|:--|
